@@ -1,5 +1,5 @@
 # Findit
-A full stack project Based on MERN stack...
+A Full Stack Project Based on MERN Stack...
 
-# Author 
-yash chorwahe
+# Developer 
+Yash Chorwahe
